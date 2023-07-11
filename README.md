@@ -1,25 +1,19 @@
  
-<h1 align="center">Hi 👋, I'm Pushpraj Dubey</h1>
-<h3 align="center">An Enthusiastic Full-Stack Developer from India</h3>
+<h1 align="center">Hi, I'm Pushpraj Dubey</h1>
+<h3 align="center">An Enthusiastic Full-Stack Developer</h3>
  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pushpraj45&label=Profile%20views&color=0e75b6&style=flat" alt="pushpraj45" /> </p>
 
  
 
-- 🔭 I’m currently working on **Posterz**
+ 
 
-- 🌱 I’m currently learning **Machine Learning**
+I’m currently learning **Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-pushpraj.netlify.app/](https://portfolio-pushpraj.netlify.app/)
+Ask me about **MERN, Java, JavaScript, Solidity, Blockchain etc.**
 
-- 💬 Ask me about **MERN, Java, JavaScript, Solidity, Blockchain etc.**
-
-- 📫 How to reach me **pushprajdubey20@gmail.com**
-
-- 📄 Know about my experiences [https://portfolio-pushpraj.netlify.app/](https://portfolio-pushpraj.netlify.app/)
-
-- ⚡ Fun fact **I think i am addictive to WebDev Drug**
+How to reach me **pushprajdubey20@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
