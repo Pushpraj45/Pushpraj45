@@ -1,6 +1,6 @@
  
-<h1 align="center">Hi, I'm Pushpraj Dubey</h1>
-<h3 align="center">An Enthusiastic Full-Stack Developer</h3>
+<h1 align="center">Hello, I'm Pushpraj Dubey</h1>
+<h3 align="center">A Full-Stack Developer </h3>
  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pushpraj45&label=Profile%20views&color=0e75b6&style=flat" alt="pushpraj45" /> </p>
@@ -9,11 +9,13 @@
 
  
 
-I’m currently learning **Machine Learning**
+## Technical Skills
 
-Ask me about **MERN, Java, JavaScript, Solidity, Blockchain etc.**
-
-How to reach me **pushprajdubey20@gmail.com**
+- **Programming Languages:** Python, R, Java, C++
+- **Machine Learning:** Supervised and Unsupervised Learning, Classification, Regression, Clustering
+- **Blockchain:** Solidity, Smart Contracts
+- **Web Development:** MERN Stack (MongoDB, Express.js, React, Node.js), Next.js
+- **Languages:** JavaScript
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
